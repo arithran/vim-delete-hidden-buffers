@@ -7,4 +7,4 @@ if !exists("*DeleteHiddenBuffers") " Clear all hidden buffers when running
 		endfor
 	endfunction
 endif
-command! DeleteHiddenBuffers call DeleteHiddenBuffers();
+command! DeleteHiddenBuffers call DeleteHiddenBuffers()
