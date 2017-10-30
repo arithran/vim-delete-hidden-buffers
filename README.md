@@ -17,8 +17,10 @@ This plugin follows the standard runtime path structure, and as such it can be i
 | [Plug][40] | `Plug 'arithran/vim-delete-hidden-buffers'` |
 | manual | copy all of the files into your `~/.vim` directory |
 
-
+## Credits
+- [ZyX][45]
 
 [12]: https://github.com/Shougo/neobundle.vim
 [13]: https://github.com/gmarik/vundle
 [40]: https://github.com/junegunn/vim-plug
+[45]: https://stackoverflow.com/a/8459043/3018289
