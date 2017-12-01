@@ -6,7 +6,7 @@ Don't worry this will not delete any active or unsaved buffers.
 ## Usage
 	:DeleteHiddenBuffers
 
-## Add the following to your .vimrc to bind a key like F5 
+### If you really like it, add the following to your .vimrc to bind a key like F5 
 	nnoremap <F5> :DeleteHiddenBuffers<CR>
 
 ## Installation
